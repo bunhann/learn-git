@@ -1,0 +1,1 @@
+print("spam and ham")
